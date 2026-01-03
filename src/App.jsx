@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import chenar from './assets/chenar.svg'
+import chenar from './assets/chenar2.svg'
 
 function App() {
   const [count, setCount] = useState(0)
